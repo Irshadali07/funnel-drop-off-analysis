@@ -20,7 +20,15 @@ Funnel Stages:
 4. Email Verified
 5. Purchase Completed
 
-**Tools Used:** Microsoft Excel | Pivot Table | Data Analysis | Product Analytics | Funnel Analysis
+## Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Excel Formulas
+- Funnel Chart
+- Bar Chart
+- Conditional Formatting
+
 
 ## Analysis Performed
 
