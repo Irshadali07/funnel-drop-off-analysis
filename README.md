@@ -64,7 +64,7 @@ The email verification step has the highest user drop-off. Simplifying email ver
 
 ## Repository Contents
 
-- `funnel_events.xlsx` – Complete Excel analysis
+- `Funnel Drop-off Analysis.xlsx` – Complete Excel analysis
 - `funnel_events_sample.csv` – Sample dataset
 
 ## Author
