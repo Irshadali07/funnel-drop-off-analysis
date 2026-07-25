@@ -1,5 +1,7 @@
 # Funnel Drop-off Analysis
 
+**Tools Used:** Microsoft Excel | Pivot Table | Data Analysis | Product Analytics | Funnel Analysis
+
 ## Project Overview
 
 This project analyzes a user signup funnel using Microsoft Excel. The goal is to identify how many users reach each stage of the funnel, calculate conversion rates, identify the biggest drop-off point, and provide recommendations to improve the user journey.
@@ -20,14 +22,6 @@ Funnel Stages:
 4. Email Verified
 5. Purchase Completed
 
-## Tools Used
-
-- Microsoft Excel
-- Pivot Tables
-- Excel Formulas
-- Funnel Chart
-- Bar Chart
-- Conditional Formatting
 
 ## Analysis Performed
 
